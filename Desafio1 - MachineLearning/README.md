@@ -2,7 +2,7 @@
 
 ### Project - TO DO
 
- - [ ] Crie um novo repositório no github com um nome a sua preferência
+ - [x] Crie um novo repositório no github com um nome a sua preferência
  - [ ] Crie um modelo de previsão com seus devidos pontos de extremidade configurados
  - [ ] Escreva o passo a passo desse processo em um readme.md de como você chegou nessa etapa
  - [ ] Salve nesse repositório o readme.md e o arquivo .json de pontos de extremidade
